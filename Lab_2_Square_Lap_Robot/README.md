@@ -3,7 +3,7 @@
 ### Objective
 The purpose of this mini project is to use Milis and PWM to control the movement of the robot and make it go in a 1 meter square lap.
 ### Circuit
-![](img/circuit1.png)
+![](img/circuit.png)
 ### Parts
 - Arduino Leonardo (You can use any. Just reference your SDA SCL and PWM pins from its datasheet)
 - H-Bridge Driver : L298N
